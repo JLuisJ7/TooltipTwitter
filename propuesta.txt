@@ -1,2 +1,8 @@
 este es una propuesta para el proyecto
+<<<<<<< HEAD
+modifique estos archivos
+index.html
+style.css
+=======
 este archivo se va a eliminar
+>>>>>>> upstream/master
