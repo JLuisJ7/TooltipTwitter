@@ -1,1 +1,4 @@
 este es una propuesta para el proyecto
+modifique estos archivos
+index.html
+style.css
